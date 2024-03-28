@@ -1,0 +1,1 @@
+import minhafoto from "../../../../public/"
