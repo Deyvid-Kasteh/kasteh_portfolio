@@ -7,10 +7,12 @@ const SobreMim: React.FC = () => {
       <div>
         <MinhaFoto height={500} width={500} />
       </div>
-      <div className="flex flex-col  items-center justify-center">
-        <span>Boa noite, eu sou</span>
+      <div className="flex flex-col items-center justify-center">
+        <span>Oi, eu sou</span>
         <span className="text-[50px] font-extrabold">Deyvid Kasteh</span>
-        <span>Desenvolvedor FullStack</span>
+        <span className="text-[35px] font-bold">
+          Desenvolvedor FullStack
+        </span>
       </div>
     </>
   );

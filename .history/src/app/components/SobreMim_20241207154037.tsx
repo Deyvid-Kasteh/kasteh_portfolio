@@ -8,9 +8,9 @@ const SobreMim: React.FC = () => {
         <MinhaFoto height={500} width={500} />
       </div>
       <div className="flex flex-col items-center justify-center">
-        <span>Boa noite, eu sou</span>
+        <span>OI, eu sou</span>
         <span className="text-[50px] font-extrabold">Deyvid Kasteh</span>
-        <span className="text-[30px] font-extrabold">
+        <span className="text-[35px] font-bold">
           Desenvolvedor FullStack
         </span>
       </div>
